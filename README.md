@@ -23,7 +23,11 @@ Abra `src/br/com/livraria/App.java` no VS Code e use **Run** (ou F5). O driver M
 src/br/com/livraria/   código-fonte (config, controller, model, repository, service, view)
 sql/                   scripts do banco
 lib/                   driver MySQL Connector/J
-evidencias/            capturas de tela da entrega
+evidencias/            capturas de tela
 ```
 
-Detalhes da entrega acadêmica em [ENTREGA.md](ENTREGA.md). Política de segurança em [SECURITY.md](SECURITY.md).
+Política de segurança em [SECURITY.md](SECURITY.md).
+
+## Licença
+
+[MIT](LICENSE)
