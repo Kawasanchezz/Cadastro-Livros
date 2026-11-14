@@ -1,0 +1,41 @@
+# Build
+bin/
+*.class
+
+# Segredos e configuração local
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Ferramentas de IA
+.claude/
+.claude.json
+CLAUDE*.md
+.mcp*.json
+.cursor/
+.windsurf/
+.aider*
+.codex/
+.gemini/
+.specstory/
+.cline*
+.roo*
+.kiro/
+
+# Auditoria local
+.audit/
+
+# IDE e sistema
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
+
+# Logs e dumps
+*.log
+*.dump
