@@ -30,7 +30,6 @@ O driver MySQL já está em `lib/`. O `bin/` é ignorado pelo Git.
 src/br/com/livraria/   código-fonte (config, controller, model, repository, service, view)
 sql/                   scripts do banco
 lib/                   driver MySQL Connector/J
-evidencias/            capturas de tela
 ```
 
 Política de segurança em [SECURITY.md](SECURITY.md).
